@@ -1,7 +1,6 @@
 'use client'
 import React from 'react';
 import WelcomeMessage from '@/components/welcome';
-import Taskbar from '@/components/taskbar';
 
 export default function Home () {
   return (
