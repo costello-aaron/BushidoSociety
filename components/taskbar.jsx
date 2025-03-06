@@ -32,7 +32,8 @@ export default function Taskbar() {
             </button>
 
             {/* Mobile Dropdown Menu */}
-            <div className={`absolute top-16 left-0 w-full bg-black flex flex-col items-center py-4 space-y-4 transition-all duration-300 ease-in-out ${isOpen ? "block" : "hidden"} md:hidden`}>
+            <div className={`absolute top-16 left-0 w-full bg-black flex flex-col items-center py-4 space-y-4 transition-all duration-300 ease-in-out z-50 ${isOpen ? "block" : "hidden"} md:hidden`}>
+
                 {["Home", "Events", "Gallery", "Crew"].map((item, index) => (
                     <Link key={index} href={`/${item === "Home" ? "" : item}`} className="text-white hover:underline" onClick={() => setIsOpen(false)}>
                         {item}
