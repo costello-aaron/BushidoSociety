@@ -4,7 +4,7 @@ import WelcomeMessage from '@/components/welcome';
 
 export default function Home () {
   return (
-    <div className="h-screen" style={{ backgroundImage: "url('/gallery/mustang_flames.jpg')" }}>
+    <div className="h-screen" style={{ backgroundImage: "url('/gallery/cleanengine1.png')" }}>
       <div className="mx-auto px-8 py-8 w-full h-full flex flex-col items-center justify-center bg-black bg-opacity-75">
         <div className='text-white font-bold text-center'>
           <div className="my-10"><WelcomeMessage /></div>

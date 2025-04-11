@@ -1,8 +1,8 @@
 [
-    { "src": "/gallery/mustang_flames.jpg", "alt": "Mustang flames", "width" : 500, "height" : 300 },
-    { "src": "/gallery/bmw1.png", "alt": "bmw", "width": 500, "height": 300 },
+    { "src": "/gallery/vince1.png", "alt": "Mustang flames", "width" : 500, "height" : 300 },
+    { "src": "/gallery/sc1.png", "alt": "bmw", "width": 500, "height": 300 },
     { "src": "/gallery/miata.png", "alt": "miata", "width": 500, "height": 300 },
     { "src": "/gallery/bikes.png", "alt": "bikes", "width": 500, "height": 300 },
-    { "src": "/gallery/suprabike.png", "alt": "suprabike", "width": 500, "height": 300 }
+    { "src": "/gallery/civic2.png", "alt": "suprabike", "width": 500, "height": 300 }
 ]
   
