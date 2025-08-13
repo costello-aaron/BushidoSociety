@@ -1,19 +1,17 @@
 {
   "events": [
     {
-      "id": "meet-215",
-      "name": "7-11 Meet",
+      "id": "dave-meet",
+      "date": "2025-08-11",
+      "name": "Dave's Meet 8/10",
       "photos": [
-        { "src": "/gallery/215meet.png", "alt": "February 15th Meet", "width": 300, "height": 300 },
-        { "src": "/gallery/bikes.png", "alt": "bikes", "width": 300, "height": 300 },
-        { "src": "/gallery/bmw1.png", "alt": "bmw", "width": 300, "height": 300 },
-        { "src": "/gallery/miata.png", "alt": "miata", "width": 300, "height": 300 },
-        { "src": "/gallery/whiteblue86.png", "alt": "whiteblue86", "width": 300, "height": 300 }
+        { "src": "/gallery/dave810.jpg", "alt": "dave meet", "width": 500, "height": 500 }
       ]
     },
     {
       "id": "meet-330",
       "name": "Lenny's Meet 3/30",
+      "date": "2025-03-31",
       "photos": [
         { "src": "/gallery/330meet.png", "alt": "March 30th Meet", "width": 300, "height": 300 },
         { "src": "/gallery/bike2.png", "alt": "bike2", "width": 300, "height": 300 },
@@ -46,10 +44,15 @@
       ]
     },
     {
-      "id": "dave-meet",
-      "name": "Dave's Meet 8/10",
+      "id": "meet-215",
+      "name": "7-11 Meet",
+      "date": "2025-02-16",
       "photos": [
-        { "src": "/gallery/dave810.jpg", "alt": "dave meet", "width": 500, "height": 500 }
+        { "src": "/gallery/215meet.png", "alt": "February 15th Meet", "width": 300, "height": 300 },
+        { "src": "/gallery/bikes.png", "alt": "bikes", "width": 300, "height": 300 },
+        { "src": "/gallery/bmw1.png", "alt": "bmw", "width": 300, "height": 300 },
+        { "src": "/gallery/miata.png", "alt": "miata", "width": 300, "height": 300 },
+        { "src": "/gallery/whiteblue86.png", "alt": "whiteblue86", "width": 300, "height": 300 }
       ]
     }
   ]
