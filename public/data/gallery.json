@@ -1,43 +1,63 @@
-[
-    { "src": "/gallery/bmw1.png", "alt": "bmw", "width": 300, "height": 300 },
-    { "src": "/gallery/miata.png", "alt": "miata", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes.png", "alt": "bikes", "width": 300, "height": 300 },
-    { "src": "/gallery/whiteblue86.png", "alt": "whiteblue86", "width": 300, "height": 300 },
-    { "src": "/gallery/suprabike.png", "alt": "suprabike", "width": 300, "height": 300 },
-    { "src": "/gallery/bike2.png", "alt": "bike2", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes1.png", "alt": "image", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes2.png", "alt": "image2", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes3.png", "alt": "image3", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes4.png", "alt": "image4", "width": 300, "height": 300 },
-    { "src": "/gallery/bikes5.png", "alt": "image5", "width": 300, "height": 300 },
-    { "src": "/gallery/camaro1.png", "alt": "image6", "width": 300, "height": 300 },
-    { "src": "/gallery/chaser1.png", "alt": "image7", "width": 300, "height": 300 },
-    { "src": "/gallery/chaser2.png", "alt": "image8", "width": 300, "height": 300 },
-    { "src": "/gallery/chevy1.png", "alt": "image9", "width": 300, "height": 300 },
-    { "src": "/gallery/civic1.png", "alt": "image", "width": 300, "height": 300 },
-    { "src": "/gallery/civic2.png", "alt": "image2", "width": 300, "height": 300 },
-    { "src": "/gallery/civic3.png", "alt": "image3", "width": 300, "height": 300 },
-    { "src": "/gallery/cleanengine1.png", "alt": "image4", "width": 300, "height": 300 },
-    { "src": "/gallery/collage1.png", "alt": "image5", "width": 300, "height": 300 },
-    { "src": "/gallery/eclipse1.png", "alt": "image6", "width": 300, "height": 300 },
-    { "src": "/gallery/gt30001.png", "alt": "image7", "width": 300, "height": 300 },
-    { "src": "/gallery/gtr1.png", "alt": "image8", "width": 300, "height": 300 },
-    { "src": "/gallery/honda1.png", "alt": "image9", "width": 300, "height": 300 },
-    { "src": "/gallery/kitty1.png", "alt": "image6", "width": 300, "height": 300 },
-    { "src": "/gallery/krispy1.png", "alt": "image7", "width": 300, "height": 300 },
-    { "src": "/gallery/krispynme.png", "alt": "image8", "width": 300, "height": 300 },
-    { "src": "/gallery/mirror1.png", "alt": "image9", "width": 300, "height": 300 },
-    { "src": "/gallery/rsx1.png", "alt": "image", "width": 300, "height": 300 },
-    { "src": "/gallery/sc1.png", "alt": "image2", "width": 300, "height": 300 },
-    { "src": "/gallery/sc2.png", "alt": "image3", "width": 300, "height": 300 },
-    { "src": "/gallery/sexy.png", "alt": "image4", "width": 300, "height": 300 },
-    { "src": "/gallery/stouts.png", "alt": "image5", "width": 300, "height": 300 },
-    { "src": "/gallery/teggy1.png", "alt": "image6", "width": 300, "height": 300 },
-    { "src": "/gallery/teggy2.png", "alt": "image7", "width": 300, "height": 300 },
-    { "src": "/gallery/vette1.png", "alt": "image8", "width": 300, "height": 300 },
-    { "src": "/gallery/vince1.png", "alt": "image9", "width": 300, "height": 300 },
-    { "src": "/gallery/vince2.png", "alt": "image7", "width": 300, "height": 300 },
-    { "src": "/gallery/z1.png", "alt": "image8", "width": 300, "height": 300 },
-    { "src": "/gallery/zukitruck.png", "alt": "image9", "width": 300, "height": 300 }
-]
+{
+  "events": [
+    {
+      "id": "meet-215",
+      "name": "7-11 Meet",
+      "date": "2024-02-15",
+      "description": "Monthly car meet featuring various builds",
+      "photos": [
+        { "src": "/gallery/215meet.png", "alt": "February 15th Meet", "width": 300, "height": 300 },
+        { "src": "/gallery/bikes.png", "alt": "bikes", "width": 300, "height": 300 },
+        { "src": "/gallery/bmw1.png", "alt": "bmw", "width": 300, "height": 300 },
+        { "src": "/gallery/miata.png", "alt": "miata", "width": 300, "height": 300 },
+        { "src": "/gallery/whiteblue86.png", "alt": "whiteblue86", "width": 300, "height": 300 }
+      ]
+    },
+    {
+      "id": "meet-330",
+      "name": "Lenny's Meet 3/30",
+      "date": "2024-03-30",
+      "description": "Spring car meet with special guest builds",
+      "photos": [
+        { "src": "/gallery/330meet.png", "alt": "March 30th Meet", "width": 300, "height": 300 },
+        { "src": "/gallery/bike2.png", "alt": "bike2", "width": 300, "height": 300 },
+        { "src": "/gallery/bikes1.png", "alt": "bikes1", "width": 300, "height": 300 },
+        { "src": "/gallery/bikes2.png", "alt": "bikes2", "width": 300, "height": 300 },
+        { "src": "/gallery/bikes5.png", "alt": "bikes5", "width": 300, "height": 300 },
+        { "src": "/gallery/camaro1.png", "alt": "camaro", "width": 300, "height": 300 },
+        { "src": "/gallery/chaser1.png", "alt": "chaser1", "width": 300, "height": 300 },
+        { "src": "/gallery/chaser2.png", "alt": "chaser2", "width": 300, "height": 300 },
+        { "src": "/gallery/chevy1.png", "alt": "chevy", "width": 300, "height": 300 },
+        { "src": "/gallery/civic1.png", "alt": "civic1", "width": 300, "height": 300 },
+        { "src": "/gallery/cleanengine1.png", "alt": "clean engine", "width": 300, "height": 300 },
+        { "src": "/gallery/collage1.png", "alt": "collage", "width": 300, "height": 300 },
+        { "src": "/gallery/eclipse1.png", "alt": "eclipse", "width": 300, "height": 300 },
+        { "src": "/gallery/gt30001.png", "alt": "3000gt", "width": 300, "height": 300 },
+        { "src": "/gallery/gtr1.png", "alt": "gtr", "width": 300, "height": 300 },
+        { "src": "/gallery/honda1.png", "alt": "honda", "width": 300, "height": 300 },
+        { "src": "/gallery/kitty1.png", "alt": "kitty", "width": 300, "height": 300 },
+        { "src": "/gallery/krispy1.png", "alt": "krispy", "width": 300, "height": 300 },
+        { "src": "/gallery/krispynme.png", "alt": "krispynme", "width": 300, "height": 300 },
+        { "src": "/gallery/mirror1.png", "alt": "mirror", "width": 300, "height": 300 },
+        { "src": "/gallery/rsx1.png", "alt": "rsx", "width": 300, "height": 300 },
+        { "src": "/gallery/sexy.png", "alt": "sexy", "width": 300, "height": 300 },
+        { "src": "/gallery/stouts.png", "alt": "stouts", "width": 300, "height": 300 },
+        { "src": "/gallery/teggy1.png", "alt": "teggy1", "width": 300, "height": 300 },
+        { "src": "/gallery/teggy2.png", "alt": "teggy2", "width": 300, "height": 300 },
+        { "src": "/gallery/vette1.png", "alt": "vette", "width": 300, "height": 300 },
+        { "src": "/gallery/z1.png", "alt": "z1", "width": 300, "height": 300 },
+        { "src": "/gallery/zukitruck.png", "alt": "zukitruck", "width": 300, "height": 300 }
+      ]
+    },
+    {
+      "id": "dave-meet",
+      "name": "Dave's Meet 8/10",
+      "date": "2024-05-20",
+      "description": "Special meet hosted by Dave featuring his 810 build",
+      "photos": [
+        { "src": "/gallery/dave810.jpg", "alt": "dave meet", "width": 500, "height": 500 }
+      ]
+    }
+  ]
+}
   
