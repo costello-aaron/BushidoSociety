@@ -4,7 +4,6 @@
       "id": "meet-215",
       "name": "7-11 Meet",
       "date": "2024-02-15",
-      "description": "Monthly car meet featuring various builds",
       "photos": [
         { "src": "/gallery/215meet.png", "alt": "February 15th Meet", "width": 300, "height": 300 },
         { "src": "/gallery/bikes.png", "alt": "bikes", "width": 300, "height": 300 },
@@ -17,7 +16,6 @@
       "id": "meet-330",
       "name": "Lenny's Meet 3/30",
       "date": "2024-03-30",
-      "description": "Spring car meet with special guest builds",
       "photos": [
         { "src": "/gallery/330meet.png", "alt": "March 30th Meet", "width": 300, "height": 300 },
         { "src": "/gallery/bike2.png", "alt": "bike2", "width": 300, "height": 300 },
@@ -53,7 +51,6 @@
       "id": "dave-meet",
       "name": "Dave's Meet 8/10",
       "date": "2024-05-20",
-      "description": "Special meet hosted by Dave featuring his 810 build",
       "photos": [
         { "src": "/gallery/dave810.jpg", "alt": "dave meet", "width": 500, "height": 500 }
       ]
